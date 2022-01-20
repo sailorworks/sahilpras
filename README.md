@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahilpras
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning from cs50 2022 course
+- 🌱 I’m currently learning from cs50 2022 course.
 - 💞️ I’m looking to collaborate on basic projects and any other freshman stuff
 - 📫 How to reach me - sahilpras11@gmail.com
 
