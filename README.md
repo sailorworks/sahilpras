@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sahilpras
+- 👋 Hi, I’m @sailorworks
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning from cs50 2022 course.
 - 💞️ I’m looking to collaborate on basic projects and any other freshman stuff
